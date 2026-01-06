@@ -1,2 +1,2 @@
 # ANJ_project
-Analyse des jeux de données open de l'ANJ
+Ce repo contient un notebook appelé main, qui analyse conjointement trois jeux de données diffusés par l'ANJ sur le site data.gouv. Une première partie analyse des données sur le marché des jeux d'argent et son évolution depuis l'ouverture à la concurrence en 2010, et dans la deuxième partie nous utilisons des cartes de la France pour regarder où se situent les joueurs et les personnes interdites volontaires sur le territoire.
